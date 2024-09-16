@@ -56,6 +56,3 @@ and many more, including code architecture and reusability.
 <a href="https://github.com/Jizzyjay/banking-app" target="_blank">
 
 <a href="https://github.com/Jizzyjay/banking-app" target="_blank">
-
-<img src="https://github.com/sujatagunale/EasyRead/assets/151519281/557837ce-f612-4530-ab24-189e75133c71" alt="Project Banner">
-</a>

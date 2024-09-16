@@ -49,11 +49,11 @@ Built with Next.js, Horizon is a financial SaaS platform that connects to multip
 
 and many more, including code architecture and reusability. 
 
-## <a name="links">🔗 Github</a>
+## <a name="links">🔗 Github Link</a>
 
 <a href="https://github.com/Jizzyjay/banking-app" target="_blank">
 
 
-## <a name="links">🔗 Website</a>
+## <a name="links">🔗 Website Link</a>
 
-<a href="https://github.com/Jizzyjay/banking-app" target="_blank">
+<a href="https://banking-app-rho-two.vercel.app/" target="_blank">

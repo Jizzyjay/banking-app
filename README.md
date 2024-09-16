@@ -16,8 +16,6 @@
 
 Built with Next.js, Horizon is a financial SaaS platform that connects to multiple bank accounts, displays transactions in real-time, allows users to transfer money to other platform users, and manages their finances altogether. 
 
-If you're getting started and need assistance or face any bugs, join our active Discord community with over **34k+** members. It's a place where people help each other out.
-
 <a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" /></a>
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
@@ -55,9 +53,9 @@ and many more, including code architecture and reusability.
 
 ## <a name="links">🔗 Links</a>
 
-<a href="https://jsmastery.pro/next14" target="_blank">
+<a href="https://github.com/Jizzyjay/banking-app" target="_blank">
+
+<a href="https://github.com/Jizzyjay/banking-app" target="_blank">
+
 <img src="https://github.com/sujatagunale/EasyRead/assets/151519281/557837ce-f612-4530-ab24-189e75133c71" alt="Project Banner">
 </a>
-
-<br />
-<br />
